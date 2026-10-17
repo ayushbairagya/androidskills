@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Base application theme. A Compose app draws its own Material 3 theme at
+      runtime (see ui/theme/Theme.kt); this XML theme only needs to exist so the
+      manifest reference resolves and the window has sane defaults before Compose
+      takes over. Using a platform parent avoids a dependency on the Material
+      Components XML themes.
+    -->
+    <style name="Theme.ComposeStarter" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
